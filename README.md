@@ -1,1 +1,1 @@
-# attach-1GB-EBS-volume-to-EC2-instance
+terraform code to create AWS ec2 with ebs attachment on ec2 start up.
